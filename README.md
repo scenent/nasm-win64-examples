@@ -2,8 +2,12 @@
 > Example NASM programs for 64 bit Windows.
 
 # Program List
-1. Pyramid
-2. 
+1. add two number
+2. bubble sort
+3. count number
+4. half pyramid
+5. hello world
+6. pyramid
 
 ## Building Environment
 | NASM | 2.16.01 |
